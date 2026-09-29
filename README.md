@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 My name is Wyatt Rossi, I am an undergraduate at EPITA School of Engineering in Lyon, France.
-Currently doing an internship in nanostructure (DNA) modelisation at CNRS, ENS Lyon.
+Currently doing an internship on a nanostructure (DNA) modelling software at CNRS, ENS Lyon.
 
 I look forward to extend my knowledge through new projects and work experiences.
   
